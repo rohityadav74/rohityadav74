@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohityadav74
 - 👀 I’m interested in plannig and working on ideas
 - 🌱 I’m currently learning web techonology
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking forward to collaborate
 
 
 <!---
